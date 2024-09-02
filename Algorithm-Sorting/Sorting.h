@@ -53,9 +53,41 @@ namespace Sorting
 
 	vector<long long> radix_sort(vector<long long>& vect, int sup10);
 
+	// SORTING GENERAL SOBRE REFERENCIA
 
+	template<typename T>
+	void selection_sort(vector<T>& vect) {
+		int n = vect.size(); int n_ = (n - 1);
+		for (int i = 0; i < n_; i++)
+		{
+			int min = vect[i]; int pot = i;
+			for (int j = (i + 1); j < n; j++)
+			{
+				if (vect[j] < min) {
+					min = vect[j];
+					pot = j;
+				}
+			}
+			vect[pot] = vect[i];
+			vect[i] = min;
+		}
+	}
 
-	// SORTING GENERAL
+	template<typename T>
+	void bubble_sort(vector<T>& vect) {
+		int n = vect.size();
+		for (int i_ = 0; i_ < n; i_++)
+		{
+			for (int i = 0; i < (n - i_ - 1); i++)
+			{
+				if (vect[i] > vect[i + 1]) {
+					T temp = vect[i];
+					vect[i] = vect[i + 1];
+					vect[i + 1] = temp;
+				}
+			}
+		}
+	}
 
 };
 

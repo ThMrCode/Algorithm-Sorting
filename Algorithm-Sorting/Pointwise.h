@@ -20,5 +20,16 @@ namespace Pointwise
 	long long get_cif(long long num, int pot);
 
 
+
+	// UTIL
+	template<typename T>
+	void show(vector<T>& vect) {
+		for (int i = 0; i < vect.size(); i++)
+		{
+			cout << vect[i] << " ";
+		}
+		cout << endl;
+	}
+
 };
 

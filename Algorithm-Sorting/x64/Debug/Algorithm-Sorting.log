@@ -1,0 +1,26 @@
+﻿  Sorting.cpp
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(9,50): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(27,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(37,50): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(55,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(65,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(89,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(99,43): warning C4244: '=': conversión de '__int64' a '_Ty1'; posible pérdida de datos
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(99,43): warning C4244:         with
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(99,43): warning C4244:         [
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(99,43): warning C4244:             _Ty1=int
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.cpp(99,43): warning C4244:         ]
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.h(20,49): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty1'; posible pérdida de datos
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         with
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         [
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:             _Ty=__int64
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         ]
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         and
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         [
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:             _Ty1=int
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         ]
+  main.cpp
+C:\misa\codecpp\Algorithm-Sorting\Algorithm-Sorting\Sorting.h(78,9): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  Algorithm-Sorting.vcxproj -> C:\misa\codecpp\Algorithm-Sorting\x64\Debug\Algorithm-Sorting.exe
