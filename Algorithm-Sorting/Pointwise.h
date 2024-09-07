@@ -31,5 +31,14 @@ namespace Pointwise
 		cout << endl;
 	}
 
+	template<typename T>
+	void show(list<T>& lst) {
+		for (T& i : lst)
+		{
+			cout << i << " ";
+		}
+		cout << endl;
+	}
+
 };
 

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\misa\\codecpp\\Algorithm-Sorting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Sorting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\Sorting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Sorting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\Sorting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Pointwise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\Pointwise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Sorting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{160A4D06-B555-4E26-8AC9-C5AA2D793828}|Algorithm-Sorting\\Algorithm-Sorting.vcxproj|solutionrelative:Algorithm-Sorting\\Sorting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pointwise.h",
-              "DocumentMoniker": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Pointwise.h",
-              "RelativeDocumentMoniker": "Algorithm-Sorting\\Pointwise.h",
-              "ToolTip": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Pointwise.h",
-              "RelativeToolTip": "Algorithm-Sorting\\Pointwise.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-02T07:42:49.292Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -51,31 +34,30 @@
               "RelativeToolTip": "Algorithm-Sorting\\Sorting.cpp",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwHEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-28T14:54:31.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T14:54:31.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Sorting.h",
               "DocumentMoniker": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Sorting.h",
               "RelativeDocumentMoniker": "Algorithm-Sorting\\Sorting.h",
               "ToolTip": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\Sorting.h",
               "RelativeToolTip": "Algorithm-Sorting\\Sorting.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-28T14:54:30.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\main.cpp",
               "RelativeDocumentMoniker": "Algorithm-Sorting\\main.cpp",
               "ToolTip": "C:\\misa\\codecpp\\Algorithm-Sorting\\Algorithm-Sorting\\main.cpp",
               "RelativeToolTip": "Algorithm-Sorting\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-28T14:38:00.428Z",
               "EditorCaption": ""

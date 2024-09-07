@@ -53,7 +53,7 @@ namespace Sorting
 
 	vector<long long> radix_sort(vector<long long>& vect, int sup10);
 
-	// SORTING GENERAL SOBRE REFERENCIA
+	// SORTING GENERAL SOBRE REFERENCIA VECT
 
 	template<typename T>
 	void selection_sort(vector<T>& vect) {
@@ -87,6 +87,33 @@ namespace Sorting
 				}
 			}
 		}
+	}
+
+	// SORTING GENERAL SOBRE REFERENCIA LIST
+
+	template<typename T>
+	list<T> insertion_sort(list<T>& lst) {
+		list<T> lst_return;
+		for (typename list<T>::iterator it = lst.begin(); it != lst.end(); ++it)
+		{
+			bool value_insert = true;
+			for (typename list<T>::iterator it_r = lst_return.begin(); it_r != lst_return.end(); ++it_r)
+			{
+				if (*it < *it_r) {
+					lst_return.insert(it_r, *it);
+					value_insert = false;
+					break;
+				}
+			}
+			if (value_insert) lst_return.push_back(*it);
+		}
+		return lst_return;
+	}
+
+	template<typename T>
+	list<T> quick_sort(list<T>& lst) {
+		// Aun en proceso
+		return list<T>();
 	}
 
 };
