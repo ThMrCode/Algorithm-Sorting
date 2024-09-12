@@ -111,10 +111,39 @@ namespace Sorting
 	}
 
 	template<typename T>
-	list<T> quick_sort(list<T>& lst) {
-		// Aun en proceso
-		return list<T>();
+	void quick_sort_backend(list<T>& lst, typename list<T>::iterator start, typename list<T>::iterator end) {
+		/*
+		if (start != end) {
+			// Tomando como pivote al ultimo end
+			typename list<T>::iterator it; typename list<T>::iterator sub_end = end;
+			for (it = start; it != end; ++it)
+			{
+				if (*it > *end) {
+					bool value_find = true;
+					for (typename list<T>::iterator change = ++it; change != end; ++change)
+					{
+						if (*it > *end) {
+							std::iter_swap(it, change);
+							value_find = false;
+							break;
+						}
+					}
+					if (value_find) {
+						std::iter_swap(it, sub_end);
+						break;
+					}
+				}
+			}
+			//quick_sort_backend(lst, start, sub_end);
+			//quick_sort_backend(lst, ++sub_end, end);
+		}*/
 	}
+
+	template<typename T>
+	void quick_sort(list<T>& lst) {
+		quick_sort_backend(lst, lst.begin(), --lst.end());
+	}
+
 
 };
 

@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Analytics.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Pointwise.h" />
     <ClInclude Include="Sorting.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Analytics.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pointwise.cpp" />
     <ClCompile Include="Sorting.cpp" />
